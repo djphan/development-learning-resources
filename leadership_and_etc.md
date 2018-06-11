@@ -15,5 +15,8 @@
       * Action: Note that Juniors will adapt and mimic and take cues from your actions/impressions so lead by example
     * [Juniors] are only as good as you are (see above)
       * Action: When juniors screw up, don't berate them. Take the time to encourage growth from these experiences
+    * Juniors should:
+      * Work hard at the job to reach at their potential
+      * Learn during the job and set a path for you to grow (whether work culture, manager, tech lead, etc) as thats part of the job
+      * Know about the [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
   
-*
